@@ -1,0 +1,47 @@
+{
+    "dimensions": [
+        {
+            "Complexity": "The level of difficulty involved in understanding and completing the task, which can range from simple to complex. This can be operationalized by assessing the number of rules, the amount of information to be processed, and the level of abstraction required."
+        },
+        {
+            "Collaboration": "The extent to which the task requires interaction and cooperation among participants. This can be operationalized by determining whether the task is performed individually or in a group, and if in a group, the level of interdependence among group members."
+        },
+        {
+            "Problem-Solving": "The degree to which the task requires participants to engage in analysis, reasoning, and decision-making. This can be operationalized by evaluating whether the task has a clear set of steps to follow or if it requires creative or strategic thinking to arrive at a solution."
+        },
+        {
+            "Time Pressure": "The presence and intensity of time constraints imposed on the task completion. This can be operationalized by measuring the total time given to complete the task and the urgency of the task demands."
+        },
+        {
+            "Performance Evaluation": "The method by which participants' performance is assessed. This can be operationalized by identifying whether the task has an objective scoring system, subjective judgment, or a comparison to an expert or standard."
+        },
+        {
+            "Information Asymmetry": "The distribution of information among participants and whether some participants have access to information that others do not. This can be operationalized by examining the transparency of information sharing and the need for information discovery or requests."
+        },
+        {
+            "Physical vs. Cognitive Skills": "The type of skills predominantly required by the task, ranging from physical/manual dexterity to cognitive/mental abilities. This can be operationalized by identifying the primary type of skill needed for task completion."
+        },
+        {
+            "Risk Assessment": "The need to evaluate potential risks and make decisions under uncertainty. This can be operationalized by determining if the task involves uncertain outcomes and requires weighing the consequences of different choices."
+        },
+        {
+            "Creativity": "The extent to which the task requires novel and original thinking. This can be operationalized by assessing if the task has a single correct answer or allows for multiple, diverse solutions."
+        },
+        {
+            "Resource Management": "The degree to which the task involves prioritizing and managing limited resources. This can be operationalized by evaluating if the task requires allocation of items, time, or other resources in order to achieve the goal."
+        }
+    ],
+    "rationale": "These dimensions were chosen to capture the variety of cognitive, social, and operational factors that influence how participants approach and complete the tasks. They reflect the diversity of skills and abilities required, the nature of the tasks' goals and constraints, and the different ways in which success is measured across the tasks. The dimensions allow for a comprehensive analysis of the tasks' characteristics and the demands they place on participants.",
+    "tasks": [
+        21,
+        5,
+        29,
+        59,
+        88,
+        42,
+        79,
+        14,
+        25,
+        51
+    ]
+}

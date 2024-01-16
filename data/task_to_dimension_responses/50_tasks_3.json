@@ -1,0 +1,96 @@
+{
+    "dimensions": [
+        {
+            "Complexity": "The level of difficulty involved in completing the task, which can range from simple (e.g., recalling a list of words) to complex (e.g., negotiating a business deal). This can be operationalized by the number of rules, steps, or variables that must be considered to perform the task."
+        },
+        {
+            "Collaboration": "The extent to which the task requires interaction and cooperation with others. This can range from individual tasks to tasks requiring coordination with multiple participants. It can be operationalized by the number of participants involved and the degree of communication required."
+        },
+        {
+            "Cognitive Load": "The amount of mental effort and working memory usage required by the task. This can be operationalized by assessing the amount of information that must be retained and manipulated to complete the task."
+        },
+        {
+            "Time Pressure": "The degree to which a task is constrained by time, which can affect decision-making and performance. This can be operationalized by the amount of time given to complete the task and the penalties for not completing within the time limit."
+        },
+        {
+            "Uncertainty": "The level of unpredictability or unknown variables in a task. This can be operationalized by the presence of random elements, incomplete information, or the need to predict outcomes."
+        },
+        {
+            "Strategic Thinking": "The requirement for planning and decision-making to achieve the best outcome in a task. This can be operationalized by the need for foresight, the presence of competitive elements, and the complexity of the decisions to be made."
+        },
+        {
+            "Quantitative Analysis": "The extent to which the task involves numerical estimation, calculation, or the use of mathematical concepts. This can be operationalized by the presence of numerical data and the need for mathematical operations to complete the task."
+        },
+        {
+            "Memory": "The reliance on short-term or long-term memory to complete the task. This can be operationalized by the need to recall information presented earlier in the task or prior knowledge."
+        },
+        {
+            "Perceptual Skills": "The need for visual or auditory discrimination to complete the task. This can be operationalized by tasks that require distinguishing between patterns, sounds, or visual stimuli."
+        },
+        {
+            "Creativity": "The requirement for original thought or the generation of novel ideas or solutions. This can be operationalized by the freedom to produce unique responses or designs within the task."
+        },
+        {
+            "Risk Management": "The need to evaluate and make decisions based on potential gains and losses. This can be operationalized by the presence of choices that have variable outcomes with associated probabilities."
+        },
+        {
+            "Information Management": "The task's demand for gathering, processing, and synthesizing information to make informed decisions. This can be operationalized by the volume and complexity of information that must be managed."
+        },
+        {
+            "Ethical Consideration": "The extent to which moral values or social norms influence decisions within the task. This can be operationalized by the presence of dilemmas that require consideration of fairness, trust, or societal impact."
+        }
+    ],
+    "rationale": "The chosen dimensions capture the variety of cognitive, social, and emotional factors that influence task performance. They reflect the diversity of the tasks in terms of complexity, required skills, and interaction with others. These dimensions allow for a comprehensive analysis of the tasks and can be used to categorize and compare them based on their characteristics.",
+    "tasks": [
+        42,
+        24,
+        31,
+        91,
+        76,
+        55,
+        3,
+        6,
+        37,
+        99,
+        47,
+        66,
+        75,
+        79,
+        34,
+        38,
+        19,
+        64,
+        33,
+        12,
+        97,
+        65,
+        56,
+        11,
+        61,
+        49,
+        39,
+        30,
+        25,
+        96,
+        74,
+        26,
+        62,
+        54,
+        40,
+        17,
+        69,
+        70,
+        85,
+        22,
+        43,
+        60,
+        10,
+        14,
+        84,
+        48,
+        46,
+        100,
+        90,
+        82
+    ]
+}

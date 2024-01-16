@@ -1,0 +1,102 @@
+{
+    "dimensions": [
+        {
+            "Complexity": "The level of difficulty involved in completing the task, which can range from simple recall to complex problem-solving."
+        },
+        {
+            "Collaboration": "Whether the task requires individual effort or cooperative engagement with other participants."
+        },
+        {
+            "Information Availability": "The extent to which information needed to complete the task is provided, hidden, or needs to be discovered."
+        },
+        {
+            "Time Constraint": "The presence and strictness of a time limit within which the task must be completed."
+        },
+        {
+            "Resource Allocation": "The necessity to manage or distribute resources effectively within the task."
+        },
+        {
+            "Risk Assessment": "The degree to which participants must evaluate risks and make decisions under uncertainty."
+        },
+        {
+            "Creativity": "The requirement for original thought or inventiveness in the task."
+        },
+        {
+            "Memory": "The reliance on recall ability to complete the task."
+        },
+        {
+            "Quantitative Analysis": "The need for numerical estimation, calculation, or logical reasoning."
+        },
+        {
+            "Strategic Thinking": "The necessity to plan and make decisions based on long-term goals or competitive scenarios."
+        },
+        {
+            "Communication": "The importance of exchanging information effectively to achieve the task's goal."
+        },
+        {
+            "Pattern Recognition": "The need to identify and understand patterns, trends, or regularities in data."
+        },
+        {
+            "Negotiation": "The requirement to discuss and reach an agreement in a collaborative or competitive context."
+        },
+        {
+            "Ethical Judgment": "The need to make decisions based on moral principles or societal norms."
+        },
+        {
+            "Physical Coordination": "The extent to which the task requires manual dexterity or physical interaction."
+        }
+    ],
+    "rationale": "The chosen dimensions cover a broad spectrum of cognitive, social, and physical aspects that are relevant to the diverse set of tasks. They allow for a comprehensive analysis of the tasks' characteristics and the skills required to complete them. The dimensions were selected to capture the variability in task demands, the nature of the interaction with information and other participants, and the types of outcomes and decisions involved.",
+    "tasks": [
+        47,
+        42,
+        87,
+        71,
+        12,
+        10,
+        25,
+        93,
+        23,
+        48,
+        61,
+        75,
+        80,
+        86,
+        14,
+        55,
+        11,
+        85,
+        4,
+        39,
+        52,
+        99,
+        94,
+        0,
+        69,
+        62,
+        1,
+        40,
+        51,
+        27,
+        81,
+        76,
+        20,
+        38,
+        45,
+        58,
+        2,
+        67,
+        6,
+        84,
+        64,
+        96,
+        100,
+        8,
+        36,
+        37,
+        66,
+        56,
+        32,
+        33
+    ]
+}

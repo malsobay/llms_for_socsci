@@ -1,0 +1,62 @@
+{
+    "dimensions": [
+        {
+            "Collaboration Requirement": "The extent to which a task requires participants to work together to achieve a goal. This can be operationalized by categorizing tasks as individual or group tasks and further by the level of interdependence required in group tasks."
+        },
+        {
+            "Cognitive Load": "The level of mental effort and resources required to complete a task. This can be operationalized by assessing the complexity of the task, the amount of information to be processed, and the type of cognitive processes involved (e.g., memory, reasoning, problem-solving)."
+        },
+        {
+            "Time Pressure": "The degree to which a task must be completed within a constrained time frame. This can be operationalized by specifying the time limits for task completion and whether these limits are strict or flexible."
+        },
+        {
+            "Information Asymmetry": "The degree to which different participants have access to different pieces of information that are collectively necessary to complete the task. This can be operationalized by the distribution of information among participants and the need for information sharing to achieve the task goal."
+        },
+        {
+            "Quantitative vs. Qualitative Analysis": "The nature of the analysis required to complete the task, whether it involves numerical data and calculations or subjective judgment and interpretation. This can be operationalized by identifying if the task outcome is based on numerical precision or qualitative assessment."
+        },
+        {
+            "Risk and Uncertainty": "The level of risk and uncertainty involved in decision-making within the task. This can be operationalized by the presence of unknown variables, the potential for loss, and the predictability of outcomes."
+        },
+        {
+            "Creative Requirement": "The extent to which a task requires original thought and inventiveness. This can be operationalized by the need for novel ideas, the generation of unique solutions, or the production of creative outputs."
+        },
+        {
+            "Moral and Ethical Judgment": "The degree to which a task involves making decisions based on moral or ethical considerations. This can be operationalized by the presence of dilemmas that require value-based decision-making and the potential for conflicting interests."
+        },
+        {
+            "Strategic Interaction": "The extent to which a task involves anticipating and responding to the actions of others. This can be operationalized by the presence of competitive or cooperative elements and the need for planning based on others' potential decisions."
+        },
+        {
+            "Learning and Adaptation": "The degree to which a task requires participants to learn from experience and adapt their strategies. This can be operationalized by the need for iterative decision-making and the ability to modify approaches based on feedback."
+        }
+    ],
+    "rationale": "The chosen dimensions capture the variety of cognitive, social, and strategic demands placed on participants by the tasks. These dimensions reflect the complexity of the tasks and the different skills required to complete them, such as collaboration, information processing, creativity, and ethical judgment. The dimensions also consider the environmental factors that influence task performance, such as time constraints, information asymmetry, and the presence of risk and uncertainty. By identifying these dimensions, we can better understand the multifaceted nature of the tasks and the challenges they present to participants.",
+    "tasks": [
+        8,
+        40,
+        14,
+        2,
+        41,
+        55,
+        82,
+        35,
+        67,
+        28,
+        89,
+        68,
+        45,
+        91,
+        87,
+        17,
+        20,
+        27,
+        50,
+        39,
+        76,
+        13,
+        75,
+        49,
+        95
+    ]
+}

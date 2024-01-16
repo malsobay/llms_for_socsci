@@ -1,0 +1,47 @@
+{
+    "dimensions": [
+        {
+            "Complexity": "The level of difficulty involved in understanding and completing the task, which can range from simple categorization to complex problem-solving."
+        },
+        {
+            "Creativity": "The extent to which the task requires novel thinking and the generation of unique ideas or solutions."
+        },
+        {
+            "Collaboration": "The degree to which the task requires participants to work together, share information, and coordinate their actions."
+        },
+        {
+            "Time Pressure": "The presence and intensity of a time constraint within which the task must be completed."
+        },
+        {
+            "Information Asymmetry": "The extent to which different participants or teams have access to different amounts of information, which can affect decision-making and negotiation."
+        },
+        {
+            "Strategic Thinking": "The requirement for participants to plan and make decisions based on the current and future actions of others, often involving game theory principles."
+        },
+        {
+            "Problem Solvability": "Whether the task has a definitive solution or is open-ended, and the extent to which a correct solution can be reached."
+        },
+        {
+            "Quantitative Analysis": "The degree to which the task involves the use of numerical or data analysis skills."
+        },
+        {
+            "Manual Dexterity": "The extent to which the task requires fine motor skills and hand-eye coordination."
+        },
+        {
+            "Risk Management": "The need to manage and make decisions under conditions of uncertainty, with potential gains or losses."
+        }
+    ],
+    "rationale": "The chosen dimensions capture the variety of skills and attributes required to complete the tasks, ranging from cognitive abilities like creativity and strategic thinking to physical skills like manual dexterity. They also reflect the different social and environmental conditions under which the tasks are performed, such as collaboration, time pressure, and information asymmetry. These dimensions are broad enough to encompass the key aspects of each task while also being distinct, allowing for a clear comparison and contrast between the different types of tasks.",
+    "tasks": [
+        59,
+        94,
+        97,
+        33,
+        88,
+        99,
+        76,
+        61,
+        89,
+        11
+    ]
+}

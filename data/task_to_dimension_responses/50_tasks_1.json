@@ -1,0 +1,87 @@
+{
+    "dimensions": [
+        {
+            "Complexity": "The level of difficulty involved in completing the task, which can range from simple recall to complex problem-solving."
+        },
+        {
+            "Collaboration": "The extent to which the task requires participants to work together or compete against each other."
+        },
+        {
+            "Time Pressure": "The degree to which a strict time limit influences the ability to complete the task."
+        },
+        {
+            "Cognitive Load": "The amount of mental effort and working memory usage required by the task."
+        },
+        {
+            "Resource Management": "The necessity to manage or allocate given resources effectively within the task."
+        },
+        {
+            "Risk Assessment": "The need to evaluate potential risks and make decisions that could impact the outcome."
+        },
+        {
+            "Creativity": "The requirement for original thought and inventiveness in completing the task."
+        },
+        {
+            "Information Processing": "The task's demand for processing and making sense of information, which may be incomplete or overwhelming."
+        },
+        {
+            "Strategy": "The level of strategic planning and foresight needed to perform well in the task."
+        },
+        {
+            "Learning and Adaptation": "The extent to which the task requires participants to learn from feedback and adapt their approach."
+        }
+    ],
+    "rationale": "The chosen dimensions capture the variety of cognitive, social, and temporal factors that influence task performance. They reflect the multifaceted nature of the tasks, which require different levels of thinking, interaction, and time management. These dimensions are critical for understanding the underlying skills and abilities being assessed by each task, and they provide a framework for comparing and contrasting the tasks' characteristics.",
+    "tasks": [
+        16,
+        3,
+        64,
+        98,
+        19,
+        83,
+        84,
+        37,
+        18,
+        71,
+        39,
+        92,
+        95,
+        87,
+        56,
+        59,
+        38,
+        100,
+        41,
+        45,
+        21,
+        85,
+        44,
+        76,
+        53,
+        69,
+        1,
+        29,
+        17,
+        70,
+        43,
+        22,
+        60,
+        101,
+        48,
+        68,
+        7,
+        82,
+        12,
+        63,
+        73,
+        96,
+        26,
+        4,
+        46,
+        94,
+        97,
+        20,
+        14,
+        57
+    ]
+}

@@ -1,0 +1,65 @@
+{
+    "dimensions": [
+        {
+            "Complexity": "The level of difficulty involved in completing the task, which can range from simple recall to complex problem-solving."
+        },
+        {
+            "Collaboration": "Whether the task requires individual effort or cooperative interaction among participants."
+        },
+        {
+            "Creativity": "The extent to which the task requires novel thinking and the generation of unique ideas or solutions."
+        },
+        {
+            "Information Availability": "The degree to which all necessary information is readily available to participants or if some information is hidden or must be discovered."
+        },
+        {
+            "Risk and Uncertainty": "The presence of elements that could lead to variable outcomes, including the possibility of loss or failure."
+        },
+        {
+            "Time Pressure": "The extent to which a strict time limit influences the ability to complete the task effectively."
+        },
+        {
+            "Cognitive Load": "The amount of mental effort and working memory usage required to perform the task."
+        },
+        {
+            "Problem Structure": "The degree to which the task has a clear goal and structured rules versus being open-ended with multiple possible outcomes."
+        },
+        {
+            "Feedback Mechanism": "The presence and nature of immediate feedback provided to participants about their performance or progress during the task."
+        },
+        {
+            "Quantitative Evaluation": "The extent to which the task outcome can be measured in numerical terms, such as points or a score."
+        },
+        {
+            "Solution Existence": "Whether the task has a definitive solution or if it is designed to be unsolvable or open to interpretation."
+        }
+    ],
+    "rationale": "The chosen dimensions capture the variability across the tasks in terms of their requirements for cognitive processing, interaction among participants, and the nature of the tasks' goals and outcomes. These dimensions allow for a comprehensive analysis of the tasks' characteristics, including the level of challenge they present, the necessity for creative or logical thinking, the role of information and risk, the impact of time constraints, and the methods used to evaluate success.",
+    "tasks": [
+        59,
+        83,
+        56,
+        76,
+        55,
+        87,
+        64,
+        14,
+        6,
+        36,
+        93,
+        10,
+        43,
+        21,
+        38,
+        66,
+        99,
+        61,
+        19,
+        62,
+        80,
+        90,
+        48,
+        84,
+        23
+    ]
+}

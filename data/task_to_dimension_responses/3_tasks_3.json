@@ -1,0 +1,28 @@
+{
+    "dimensions": [
+        {
+            "Cognitive Load": "The level of mental effort and capacity required to complete a task. It can be operationalized by assessing the complexity of the task, the amount of information that must be processed, and the type of cognitive processes involved (e.g., memory, reasoning, problem-solving)."
+        },
+        {
+            "Strategic Complexity": "The extent to which a task requires the development and execution of long-term plans and strategies. This can be operationalized by evaluating the number of possible moves or actions, the presence of an opponent, and the need for anticipation of future events or opponent's actions."
+        },
+        {
+            "Social Interaction": "The degree to which a task involves interaction with other participants and the need to consider their intentions, motivations, and actions. It can be operationalized by the presence of communication between players, the need to cooperate or compete, and the influence of social dynamics on the outcome."
+        },
+        {
+            "Time Constraint": "The presence of a fixed time limit within which the task must be completed. It can be operationalized by the strictness of the time limit and the consequences of not completing the task within this timeframe."
+        },
+        {
+            "Objective Measurement": "The clarity and precision with which success in the task can be measured. It can be operationalized by the presence of quantifiable outcomes, such as scores or clear win/loss conditions, and the degree of subjectivity in assessing performance."
+        },
+        {
+            "Information Asymmetry": "The extent to which participants have access to different amounts or types of information. It can be operationalized by the distribution of knowledge among participants and the transparency of information during the task."
+        }
+    ],
+    "rationale": "These dimensions were chosen to capture the variety of cognitive, strategic, social, and structural elements present in the tasks. Task 1 (Estimating geological metrics) involves cognitive load and objective measurement, with participants needing to process information and estimate accurately. Task 2 (Checkers) adds strategic complexity and a time constraint, requiring participants to plan and execute strategies against an opponent within a limited time. Task 3 (Sender-Receiver game) introduces social interaction and information asymmetry, as participants must communicate and make decisions based on incomplete or potentially deceptive information. Together, these dimensions provide a comprehensive framework for analyzing the tasks' requirements and challenges.",
+    "tasks": [
+        25,
+        17,
+        75
+    ]
+}

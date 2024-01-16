@@ -1,0 +1,28 @@
+{
+    "dimensions": [
+        {
+            "Complexity": "The level of difficulty involved in understanding and solving the task, which can be operationalized by the number of rules, the number of elements to consider, and the depth of understanding required."
+        },
+        {
+            "Creativity": "The extent to which the task requires novel thinking and originality, operationalized by the uniqueness of the solutions or responses compared to a normative sample."
+        },
+        {
+            "Convergence-Divergence": "Whether the task has a single correct answer or multiple possible correct answers, operationalized by the number of acceptable solutions or the range of scores reflecting the quality of the solutions."
+        },
+        {
+            "Time Pressure": "The degree to which a strict time limit affects task performance, operationalized by the presence of a countdown timer and the effect of time on the final score."
+        },
+        {
+            "Collaboration": "The extent to which the task allows or requires multiple participants to work together, operationalized by whether the task is designed for individual or group participation and if group discussion is allowed."
+        },
+        {
+            "Expertise Alignment": "The degree to which the task requires or benefits from specialized knowledge or skills, operationalized by comparing participants' solutions to those of subject matter experts."
+        }
+    ],
+    "rationale": "These dimensions were chosen to capture the variety of cognitive and social processes involved in the tasks. Complexity and Creativity reflect the intellectual challenge and originality required. Convergence-Divergence captures the range of acceptable solutions. Time Pressure reflects the role of time constraints. Collaboration indicates the social aspect of problem-solving. Expertise Alignment shows the relevance of specialized knowledge to task performance.",
+    "tasks": [
+        53,
+        23,
+        51
+    ]
+}

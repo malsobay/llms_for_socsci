@@ -1,0 +1,47 @@
+{
+    "dimensions": [
+        {
+            "Complexity": "The level of difficulty involved in understanding and solving the task, which can range from simple (e.g., arithmetic problems) to complex (e.g., allocating resources or solving a mystery). This can be operationalized by assessing the number of rules, variables, or steps required to complete the task."
+        },
+        {
+            "Collaboration": "The extent to which the task requires or benefits from working with others, which can vary from individual to group tasks. This can be operationalized by whether the task is performed alone or in a group, and the degree of interdependence among participants."
+        },
+        {
+            "Time Pressure": "The degree to which a task is constrained by time, which can affect decision-making and performance. This can be operationalized by the presence of a time limit and the strictness of that limit."
+        },
+        {
+            "Solution Definitiveness": "The clarity of the task's solution, ranging from tasks with a single correct answer to those with subjective or multiple valid outcomes. This can be operationalized by whether there is a known correct answer or if solutions are open to interpretation."
+        },
+        {
+            "Feedback": "The presence and immediacy of feedback given to participants, which can influence learning and strategy. This can be operationalized by whether participants receive immediate, delayed, or no feedback on their performance."
+        },
+        {
+            "Strategic Depth": "The extent to which a task requires strategic thinking and planning ahead, which can vary from tasks requiring minimal strategy to those demanding complex strategic considerations. This can be operationalized by the number of future moves or consequences a participant must consider."
+        },
+        {
+            "Creativity": "The degree to which a task allows for or requires creative problem-solving, which can range from tasks with straightforward methods to those that encourage novel approaches. This can be operationalized by the number of possible solutions and the uniqueness of successful approaches."
+        },
+        {
+            "Risk Management": "The extent to which a task involves managing uncertainty and making decisions under risk. This can be operationalized by the presence of probabilistic outcomes and the need to make decisions with incomplete information."
+        },
+        {
+            "Resource Allocation": "The degree to which a task involves distributing limited resources, which can vary from tasks with abundant resources to those with scarce resources. This can be operationalized by the scarcity of resources and the trade-offs required to manage them."
+        },
+        {
+            "Goal Clarity": "The extent to which the goals of the task are clearly defined, which can range from tasks with explicit objectives to those with ambiguous goals. This can be operationalized by the specificity of the task instructions and the measurability of the task outcomes."
+        }
+    ],
+    "rationale": "These dimensions were chosen to capture the variety of cognitive, social, and strategic elements present in the tasks. They reflect the different skills and abilities required to perform each task, such as problem-solving, cooperation, time management, strategic planning, and adaptability. The dimensions also account for the structure of the tasks, including the clarity of objectives, the presence of feedback, and the nature of resource constraints. Together, these dimensions provide a comprehensive framework for analyzing and comparing the tasks.",
+    "tasks": [
+        7,
+        19,
+        42,
+        4,
+        31,
+        61,
+        76,
+        53,
+        100,
+        89
+    ]
+}

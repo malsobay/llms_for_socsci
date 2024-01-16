@@ -1,0 +1,31 @@
+{
+    "dimensions": [
+        {
+            "Complexity": "The level of difficulty involved in understanding and completing the task, which can range from simple to complex based on the rules, strategies, and cognitive processes required."
+        },
+        {
+            "Strategic Depth": "The extent to which a task requires strategic thinking, planning, and decision-making, often involving anticipation of an opponent's moves or consideration of multiple factors."
+        },
+        {
+            "Social Interaction": "The degree to which a task involves interaction with other participants, which can range from none to significant interaction, including communication, negotiation, or competition."
+        },
+        {
+            "Objective Measurement": "The ease with which the outcome of the task can be measured objectively, ranging from tasks with clear right or wrong answers to those with subjective or nuanced outcomes."
+        },
+        {
+            "Time Constraint": "The presence of a time limit within which the task must be completed, which can affect the pressure on participants and the strategies they employ."
+        },
+        {
+            "Knowledge Dependency": "The extent to which the task relies on pre-existing knowledge or information, such as familiarity with words or knowledge of city populations."
+        },
+        {
+            "Moral/Ethical Consideration": "The extent to which the task involves moral or ethical decision-making, which can influence the choices made by participants beyond purely rational self-interest."
+        }
+    ],
+    "rationale": "These dimensions were chosen to capture the variety of cognitive and social factors that differentiate the tasks. Task 1 (Ranking) is knowledge-dependent and has objective measurement but low strategic depth. Task 2 (Checkers) is complex, has high strategic depth, and requires no social interaction or moral consideration. Task 3 (Dictator Game) involves social interaction, moral/ethical consideration, and strategic depth to some extent, but is less complex and knowledge-dependent than the other tasks. All tasks have a time constraint, which is a common factor affecting performance.",
+    "tasks": [
+        63,
+        17,
+        22
+    ]
+}

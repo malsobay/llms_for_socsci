@@ -1,0 +1,137 @@
+{
+    "dimensions": [
+        {
+            "Complexity": "The level of difficulty involved in completing the task, which can be operationalized by the number of steps, rules, or variables that must be considered to achieve the goal."
+        },
+        {
+            "Collaboration Requirement": "The extent to which the task requires cooperation or competition among participants, which can be operationalized by the number of interactions between participants and the nature of these interactions (cooperative, competitive, or independent)."
+        },
+        {
+            "Cognitive Load": "The amount of mental effort and working memory usage required to perform the task, which can be operationalized by the type and amount of information that must be processed."
+        },
+        {
+            "Time Constraint": "The degree to which the task is sensitive to time pressure, which can be operationalized by the presence of a time limit and the strictness of that limit."
+        },
+        {
+            "Resource Limitation": "The extent to which the task is constrained by the availability of resources, which can be operationalized by the quantity and type of resources provided to complete the task."
+        },
+        {
+            "Creativity Demand": "The level of original thought or inventiveness required by the task, which can be operationalized by the openness of the task's end goal and the number of possible solutions."
+        },
+        {
+            "Risk and Uncertainty": "The degree of risk involved in decision-making and the uncertainty of outcomes, which can be operationalized by the variability of outcomes and the presence of unknown elements."
+        },
+        {
+            "Information Asymmetry": "The extent to which participants have access to different pieces of information, which can be operationalized by the distribution of knowledge among participants and the need for information sharing."
+        },
+        {
+            "Problem-Solving Strategy": "The type of reasoning or approach needed to complete the task, which can be operationalized by the requirement for logical, spatial, numerical, or other forms of problem-solving."
+        },
+        {
+            "Physical Coordination": "The level of physical or manual dexterity required by the task, which can be operationalized by the need for precise movements or coordination in a physical or virtual space."
+        }
+    ],
+    "rationale": "The chosen dimensions capture the variety of factors that influence task performance across the described tasks. They encompass the mental and physical demands placed on participants, the social dynamics involved, the structure and rules of the tasks, and the environmental constraints. These dimensions were selected to provide a comprehensive framework for understanding the multifaceted nature of the tasks and the skills required to complete them.",
+    "tasks": [
+        72,
+        45,
+        65,
+        19,
+        42,
+        2,
+        55,
+        27,
+        95,
+        81,
+        37,
+        14,
+        75,
+        7,
+        96,
+        28,
+        82,
+        11,
+        33,
+        21,
+        74,
+        39,
+        78,
+        56,
+        17,
+        76,
+        24,
+        46,
+        100,
+        18,
+        58,
+        3,
+        79,
+        94,
+        30,
+        73,
+        44,
+        98,
+        92,
+        5,
+        64,
+        51,
+        26,
+        34,
+        52,
+        43,
+        70,
+        38,
+        10,
+        69,
+        9,
+        53,
+        49,
+        83,
+        86,
+        48,
+        62,
+        88,
+        31,
+        35,
+        87,
+        101,
+        67,
+        93,
+        15,
+        16,
+        68,
+        23,
+        90,
+        89,
+        41,
+        13,
+        47,
+        36,
+        29,
+        22,
+        71,
+        1,
+        66,
+        32,
+        25,
+        61,
+        59,
+        20,
+        12,
+        4,
+        85,
+        0,
+        40,
+        84,
+        99,
+        60,
+        8,
+        91,
+        77,
+        50,
+        57,
+        54,
+        6,
+        97
+    ]
+}

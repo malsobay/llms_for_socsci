@@ -1,0 +1,62 @@
+{
+    "dimensions": [
+        {
+            "Complexity": "The level of difficulty involved in completing the task, which can range from simple (e.g., recalling words) to complex (e.g., negotiating a business deal)."
+        },
+        {
+            "Collaboration": "Whether the task requires participants to work alone or in a team, and the degree to which teamwork and communication are necessary for success."
+        },
+        {
+            "Creativity": "The extent to which the task requires novel thinking, imagination, or innovation, as opposed to tasks that have clear-cut solutions or rely on memory."
+        },
+        {
+            "Time Pressure": "The degree to which a task is constrained by time, requiring quick thinking and decision-making."
+        },
+        {
+            "Cognitive Load": "The amount of mental effort and working memory usage required to perform the task, which can affect performance, especially under time constraints."
+        },
+        {
+            "Information Asymmetry": "The extent to which participants have access to different levels of information, which can influence strategies and outcomes in tasks such as negotiations or games."
+        },
+        {
+            "Quantitative Reasoning": "The degree to which the task involves numerical computation, logical reasoning, and problem-solving skills."
+        },
+        {
+            "Risk and Uncertainty": "The level of risk involved in decision-making and the uncertainty of outcomes, which can be influenced by unknown variables or the actions of others."
+        },
+        {
+            "Feedback and Learning": "Whether and how participants receive feedback on their performance, which can be immediate or delayed, and how they can learn and adapt their strategies over time."
+        },
+        {
+            "Objective vs. Subjective Evaluation": "The manner in which task performance is assessed, ranging from objective measures (e.g., a correct answer) to subjective evaluations (e.g., creativity or negotiation skills)."
+        }
+    ],
+    "rationale": "The chosen dimensions capture the variability in task characteristics, including the required cognitive processes, social dynamics, and environmental factors. These dimensions allow for a comprehensive analysis of the tasks' demands on participants and the skills needed to perform them effectively. They also facilitate the understanding of how different tasks can be categorized and compared based on their inherent properties.",
+    "tasks": [
+        95,
+        51,
+        39,
+        77,
+        20,
+        54,
+        101,
+        11,
+        99,
+        7,
+        61,
+        59,
+        84,
+        47,
+        70,
+        24,
+        37,
+        4,
+        23,
+        71,
+        3,
+        78,
+        91,
+        86,
+        72
+    ]
+}
