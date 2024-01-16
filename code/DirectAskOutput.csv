@@ -1,0 +1,25 @@
+Dimension,Measure
+Complexity,Number of distinct steps or elements
+Physical Demand,Metabolic equivalents (METs) required
+Cognitive Load,"Subjective mental workload rating (e.g., NASA-TLX score)"
+Team Size,Number of team members
+Coordination Requirement,Coordination Load Index (CLI)
+Task Duration,Time to complete the task in minutes
+Novelty,Likert scale rating from familiar (1) to novel (7)
+Interdependence,Index of Task Interdependence (ITI)
+Goal Clarity,Likert scale rating from ambiguous (1) to clear (7)
+Autonomy,Degree of control over task execution (low to high)
+Feedback Frequency,Number of feedback instances per unit time
+Skill Variety,Number of different skills required
+Problem-Solving Demand,Heuristic complexity score (low to high)
+Information Processing,Bits of information processed per unit time
+Risk Level,Probability of failure times the consequence of failure
+Creativity Requirement,Creativity Rating Scale (CRS) score
+Technological Mediation,Level of technology use (low to high)
+Environmental Stability,Frequency of environmental changes per unit time
+Resource Constraints,Resource scarcity index (low to high)
+Cultural Diversity,Cultural Diversity Index (CDI)
+Temporal Pressure,Time pressure index (low to high)
+Spatial Dispersion,Average physical distance between team members (meters)
+Outcome Interactivity,Degree of outcome interdependence (low to high)
+Learning Potential,Learning opportunity index (low to high)}
