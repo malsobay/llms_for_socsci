@@ -1,0 +1,146 @@
+{
+    "dimensions": [
+        {
+            "Complexity": "The level of difficulty involved in completing the task, which can be operationalized by measuring the number of steps, rules, or pieces of information that must be managed to achieve the task goal."
+        },
+        {
+            "Collaboration Requirement": "The extent to which the task requires participants to work together with others, which can be operationalized by whether the task is designed for individual or group participation and the degree of interdependence among participants."
+        },
+        {
+            "Cognitive Load": "The amount of mental effort required to perform the task, which can be operationalized by assessing the memory demands, the need for attentional focus, and the level of problem-solving involved."
+        },
+        {
+            "Time Constraint": "The degree to which the task is time-bound, which can be operationalized by the presence of a time limit and the strictness of that time limit."
+        },
+        {
+            "Quantitative Reasoning": "The extent to which the task involves numerical computation, estimation, or manipulation, which can be operationalized by the presence of numerical data and the requirement for mathematical operations."
+        },
+        {
+            "Strategic Thinking": "The requirement for planning, decision-making, and anticipation of outcomes, which can be operationalized by the need to consider multiple variables, predict opponent behavior, or plan several steps ahead."
+        },
+        {
+            "Creativity": "The demand for original thought or novel solutions, which can be operationalized by the openness of task outcomes and the encouragement of unique responses or designs."
+        },
+        {
+            "Information Processing": "The need to analyze, synthesize, and evaluate information, which can be operationalized by the volume of information provided and the necessity to discern relevant from irrelevant data."
+        },
+        {
+            "Risk Assessment": "The extent to which participants must evaluate potential losses or gains and make decisions under uncertainty, which can be operationalized by the presence of probabilistic outcomes and the potential for variable rewards or penalties."
+        },
+        {
+            "Memory Recall": "The requirement to retrieve information from memory, which can be operationalized by tasks that require participants to remember previously presented information without reference material."
+        },
+        {
+            "Physical Coordination": "The need for manual dexterity or physical interaction with the task environment, which can be operationalized by tasks that require participants to manipulate objects or navigate through space using a controller or keyboard."
+        },
+        {
+            "Communication": "The necessity for participants to convey or interpret messages, which can be operationalized by tasks that involve sending, receiving, or understanding verbal or nonverbal information."
+        },
+        {
+            "Moral/Ethical Judgment": "The demand for participants to make decisions based on ethical principles or societal norms, which can be operationalized by tasks that present dilemmas requiring value-based choices."
+        }
+    ],
+    "rationale": "The chosen dimensions capture the variety of cognitive, social, and physical demands that the tasks place on participants. They reflect the diversity of skills and abilities required to perform the tasks, ranging from memory and information processing to creativity and strategic thinking. The dimensions also account for the structural aspects of the tasks, such as time constraints and collaboration requirements, which influence how participants approach and complete the tasks. These dimensions were selected to provide a comprehensive framework for analyzing the tasks' characteristics and the competencies they assess.",
+    "tasks": [
+        58,
+        7,
+        28,
+        3,
+        84,
+        34,
+        51,
+        97,
+        16,
+        99,
+        36,
+        53,
+        66,
+        32,
+        65,
+        95,
+        82,
+        43,
+        37,
+        61,
+        83,
+        80,
+        29,
+        10,
+        56,
+        47,
+        73,
+        71,
+        79,
+        57,
+        25,
+        78,
+        12,
+        54,
+        62,
+        35,
+        77,
+        67,
+        45,
+        87,
+        15,
+        69,
+        50,
+        38,
+        89,
+        49,
+        68,
+        14,
+        40,
+        33,
+        18,
+        6,
+        96,
+        30,
+        90,
+        13,
+        98,
+        0,
+        39,
+        19,
+        9,
+        31,
+        72,
+        70,
+        100,
+        8,
+        48,
+        76,
+        27,
+        42,
+        60,
+        23,
+        11,
+        5,
+        22,
+        59,
+        93,
+        21,
+        44,
+        101,
+        20,
+        85,
+        4,
+        46,
+        26,
+        74,
+        17,
+        94,
+        41,
+        81,
+        88,
+        55,
+        1,
+        2,
+        86,
+        52,
+        75,
+        24,
+        64,
+        92
+    ]
+}
