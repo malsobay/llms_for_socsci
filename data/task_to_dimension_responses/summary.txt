@@ -1,0 +1,95 @@
+Number of tasks tested per iteration =  3
+Number of iterations 3
+Number of dimensions per iteration iteration_num
+1    6
+2    7
+3    6
+Name: dimension, dtype: int64
+Num unique dimensions total 15
+Dimensions :  ['Cognitive Load' 'Collaboration' 'Complexity' 'Convergence-Divergence'
+ 'Creativity' 'Expertise Alignment' 'Information Asymmetry'
+ 'Knowledge Dependency' 'Moral/Ethical Consideration'
+ 'Objective Measurement' 'Social Interaction' 'Strategic Complexity'
+ 'Strategic Depth' 'Time Constraint' 'Time Pressure']
+
+
+
+
+Number of tasks tested per iteration =  10
+Number of iterations 3
+Number of dimensions per iteration iteration_num
+1    10
+2    10
+3    10
+Name: dimension, dtype: int64
+Num unique dimensions total 20
+Dimensions :  ['Collaboration' 'Complexity' 'Creativity' 'Feedback' 'Goal Clarity'
+ 'Information Asymmetry' 'Manual Dexterity' 'Performance Evaluation'
+ 'Physical vs. Cognitive Skills' 'Problem Solvability' 'Problem-Solving'
+ 'Quantitative Analysis' 'Resource Allocation' 'Resource Management'
+ 'Risk Assessment' 'Risk Management' 'Solution Definitiveness'
+ 'Strategic Depth' 'Strategic Thinking' 'Time Pressure']
+
+
+
+
+Number of tasks tested per iteration =  25
+Number of iterations 3
+Number of dimensions per iteration iteration_num
+1    10
+2    10
+3    11
+Name: dimension, dtype: int64
+Num unique dimensions total 21
+Dimensions :  ['Cognitive Load' 'Collaboration' 'Collaboration Requirement' 'Complexity'
+ 'Creative Requirement' 'Creativity' 'Feedback Mechanism'
+ 'Feedback and Learning' 'Information Asymmetry'
+ 'Information Availability' 'Learning and Adaptation'
+ 'Moral and Ethical Judgment' 'Objective vs. Subjective Evaluation'
+ 'Problem Structure' 'Quantitative Evaluation' 'Quantitative Reasoning'
+ 'Quantitative vs. Qualitative Analysis' 'Risk and Uncertainty'
+ 'Solution Existence' 'Strategic Interaction' 'Time Pressure']
+
+
+
+
+Number of tasks tested per iteration =  50
+Number of iterations 3
+Number of dimensions per iteration iteration_num
+1    10
+2    15
+3    13
+Name: dimension, dtype: int64
+Num unique dimensions total 26
+Dimensions :  ['Cognitive Load' 'Collaboration' 'Communication' 'Complexity'
+ 'Creativity' 'Ethical Consideration' 'Ethical Judgment'
+ 'Information Availability' 'Information Management'
+ 'Information Processing' 'Learning and Adaptation' 'Memory' 'Negotiation'
+ 'Pattern Recognition' 'Perceptual Skills' 'Physical Coordination'
+ 'Quantitative Analysis' 'Resource Allocation' 'Resource Management'
+ 'Risk Assessment' 'Risk Management' 'Strategic Thinking' 'Strategy'
+ 'Time Constraint' 'Time Pressure' 'Uncertainty']
+
+
+
+
+Number of tasks tested per iteration =  100
+Number of iterations 3
+Number of dimensions per iteration iteration_num
+1    10
+2    10
+3    13
+Name: dimension, dtype: int64
+Num unique dimensions total 22
+Dimensions :  ['Analytical Requirement' 'Cognitive Load' 'Collaboration Requirement'
+ 'Communication' 'Complexity' 'Creativity' 'Creativity Demand'
+ 'Information Asymmetry' 'Information Processing' 'Memory Recall'
+ 'Moral/Ethical Judgment' 'Physical Coordination'
+ 'Problem-Solving Strategy' 'Quantitative Reasoning' 'Resource Allocation'
+ 'Resource Limitation' 'Risk Assessment' 'Risk Management'
+ 'Risk and Uncertainty' 'Social Interaction' 'Strategic Thinking'
+ 'Time Constraint']
+
+
+
+

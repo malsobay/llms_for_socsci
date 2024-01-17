@@ -1,0 +1,137 @@
+{
+    "dimensions": [
+        {
+            "Complexity": "The level of difficulty and intricacy involved in the task, which can be operationalized by the number of steps, rules, or variables that a participant must consider to complete the task successfully."
+        },
+        {
+            "Collaboration Requirement": "The extent to which the task requires participants to work together with others, which can be operationalized by whether the task is designed for individual or group participation and the degree of interdependence among participants."
+        },
+        {
+            "Cognitive Load": "The amount of mental effort and working memory usage required by the task, which can be operationalized by the number of items or amount of information that must be retained and manipulated mentally."
+        },
+        {
+            "Time Constraint": "The degree to which the task is sensitive to time, which can be operationalized by whether there is a strict time limit for task completion and the tightness of this time limit."
+        },
+        {
+            "Creativity Demand": "The level of original thought or inventiveness required by the task, which can be operationalized by the need for novel solutions or the generation of unique ideas."
+        },
+        {
+            "Analytical Requirement": "The degree to which the task requires logical reasoning, pattern recognition, or systematic problem-solving skills, which can be operationalized by the presence of problems that have a single correct solution or require the application of specific rules or algorithms."
+        },
+        {
+            "Information Asymmetry": "The extent to which participants have access to different amounts of information or knowledge, which can be operationalized by whether the task involves hidden information or unequal distribution of knowledge among participants."
+        },
+        {
+            "Resource Allocation": "The need to distribute or manage limited resources effectively, which can be operationalized by tasks that involve budgeting, investing, or dividing assets among various options or entities."
+        },
+        {
+            "Risk Management": "The necessity to make decisions under conditions of uncertainty and potential loss, which can be operationalized by tasks that involve predicting outcomes, making estimations, or dealing with probabilities."
+        },
+        {
+            "Social Interaction": "The level of engagement with other participants in a social context, which can be operationalized by tasks that involve negotiation, persuasion, or consideration of others' perspectives."
+        }
+    ],
+    "rationale": "The chosen dimensions capture the variety of cognitive, social, and strategic elements present in the tasks. They reflect the different types of thinking and interaction required, from logical problem-solving and creative ideation to social negotiation and resource management. These dimensions were selected to encompass the breadth of skills and abilities that the tasks are designed to measure or develop, providing a comprehensive framework for understanding the tasks' demands on participants.",
+    "tasks": [
+        86,
+        97,
+        75,
+        24,
+        57,
+        42,
+        77,
+        15,
+        76,
+        66,
+        90,
+        89,
+        81,
+        18,
+        85,
+        93,
+        71,
+        87,
+        8,
+        79,
+        10,
+        96,
+        49,
+        88,
+        34,
+        1,
+        70,
+        80,
+        38,
+        27,
+        83,
+        29,
+        65,
+        56,
+        25,
+        72,
+        3,
+        73,
+        92,
+        82,
+        45,
+        32,
+        63,
+        46,
+        5,
+        9,
+        44,
+        53,
+        39,
+        0,
+        54,
+        69,
+        55,
+        51,
+        98,
+        94,
+        91,
+        50,
+        37,
+        2,
+        74,
+        41,
+        48,
+        13,
+        28,
+        62,
+        61,
+        84,
+        95,
+        36,
+        40,
+        100,
+        64,
+        7,
+        19,
+        31,
+        101,
+        22,
+        11,
+        58,
+        17,
+        52,
+        99,
+        16,
+        12,
+        59,
+        47,
+        43,
+        14,
+        78,
+        30,
+        60,
+        21,
+        26,
+        4,
+        23,
+        35,
+        33,
+        6,
+        67
+    ]
+}
