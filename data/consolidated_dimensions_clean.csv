@@ -1,0 +1,134 @@
+source,dim_name,dim_desc
+pairwise,Abstract Problem-Solving,The requirement for participants to engage in abstract thinking and apply non-concrete criteria to solve problems or generate outputs.
+pairwise,Abstract Thinking,"The requirement for conceptual reasoning, ideation, and the application of abstract concepts to complete a task."
+pairwise,Collaboration Intensity,"The extent to which a task requires team members to work together, share information, and make decisions collaboratively to achieve a common goal."
+pairwise,Collaborative Decision-Making,"The extent to which a task requires participants to work together to analyze information, discuss differing opinions, and reach a consensus or agreement."
+pairwise,Competitive Dynamics,"The presence of individual goals that may conflict with those of other team members, leading to competitive rather than cooperative interactions."
+pairwise,Competitive Element,"The presence of a competitive dynamic within the task, where individual or team performance is measured against others."
+pairwise,Competitive vs. Cooperative Dynamics,"The nature of the interaction among participants, whether it is competitive with individual goals or cooperative with a shared objective."
+pairwise,Consensus Building,The importance of reaching an agreement or unified decision among team members.
+pairwise,Consensus Requirement,"The necessity for team members to reach an agreement on a collective decision or output, often involving negotiation and synthesis of different viewpoints."
+pairwise,Consensus-Building,"The need for team members to negotiate, discuss, and agree on a collective outcome that reflects the group's shared understanding or goal."
+pairwise,Creative Output,"The requirement for the task to produce a creative or non-standard solution, often involving idea generation and abstract thinking."
+pairwise,Creative Problem-Solving,The need for team members to engage in creative thinking and generate multiple unique solutions or ideas within a set framework.
+pairwise,Creative Requirement,"The necessity for creative input, idea generation, and innovative thinking within the task."
+pairwise,Creative Synthesis,"The requirement for participants to generate new ideas or solutions by combining individual contributions into a single, cohesive output."
+pairwise,Feedback Loop,"The presence of immediate or delayed feedback on team decisions and actions, which informs and influences subsequent team strategy."
+pairwise,Feedback and Adaptation,The task's provision of immediate feedback on performance and the requirement for participants to adapt their strategies based on that feedback.
+pairwise,Feedback and Iteration,The extent to which a task provides feedback on team decisions and allows for iterative improvement based on that feedback.
+pairwise,Individual Autonomy,The level of independence granted to each team member to make decisions or contributions without the need for group consensus or collaboration.
+pairwise,Individual vs. Collective Focus,The balance between tasks that prioritize individual performance and decision-making versus those that emphasize collective outcomes and team success.
+pairwise,Information Asymmetry,"The distribution of information among team members, where not all participants have access to the same information, requiring sharing and integration to complete the task."
+pairwise,Information Integration,The extent to which a task requires team members to combine different pieces of information to solve a problem or reach a decision.
+pairwise,Information Sharing,The importance of communication and the exchange of information among team members to achieve a shared understanding and goal.
+pairwise,Information Symmetry,The extent to which team members have access to the same information or whether the task involves hidden or unshared information that must be communicated.
+pairwise,Information Processing,"The extent to which a task requires the analysis, synthesis, and application of information to make decisions or produce an output."
+pairwise,Objective Clarity,"The degree to which the task has a clear, measurable goal or outcome that can be objectively evaluated for success."
+pairwise,Objective Measurement,The ability to quantify the success of the task based on objective criteria or a clear scoring system.
+pairwise,Real-Time Coordination,"The necessity for team members to interact and make decisions in a dynamic, real-time environment."
+pairwise,Real-Time Interaction,"The extent to which a task involves immediate, dynamic interaction among team members within a shared environment."
+pairwise,Role Differentiation,"The degree to which a task involves distinct roles or responsibilities for each team member, with each role contributing specific skills or knowledge to the team's objective."
+pairwise,Strategic Complexity,"The level of strategic thinking, planning, and adaptation required to achieve the task's objectives within a set of rules or constraints."
+pairwise,Strategic Decision-Making,"The level of planning, anticipation of outcomes, and strategic thinking required to perform the task successfully."
+pairwise,Strategic Interaction,"The level of strategic thinking and prediction required to consider the actions and potential reactions of others, both within the team and with external parties."
+pairwise,Strategic Planning,"The requirement for team members to analyze situations, predict outcomes, and develop a shared strategy to achieve a goal within a set of rules or constraints."
+pairwise,Time Constraint,"The presence of a fixed time limit within which participants must complete the task, adding pressure to the decision-making process."
+pairwise,Visual-Spatial Coordination,The requirement for participants to interact with and manipulate elements within a visual or spatial context to achieve the task's objectives.
+pairwise,Spatial Coordination,The requirement for team members to navigate and manipulate elements within a shared visual or spatial environment.
+taskbased,Complexity,"The level of difficulty involved in completing the task, which can range from simple (e.g., recalling words) to complex (e.g., negotiating a business deal)."
+taskbased,Collaboration,"Whether the task requires participants to work alone or in a team, and the degree to which teamwork and communication are necessary for success."
+taskbased,Creativity,"The extent to which the task requires novel thinking, imagination, or innovation, as opposed to tasks that have clear-cut solutions or rely on memory."
+taskbased,Strategy,The level of strategic planning and foresight needed to perform well in the task.
+taskbased,Time Pressure,"The degree to which a task is constrained by time, requiring quick thinking and decision-making."
+taskbased,Cognitive Load,"The amount of mental effort and working memory usage required to perform the task, which can affect performance, especially under time constraints."
+taskbased,Information Asymmetry,"The extent to which participants have access to different levels of information, which can influence strategies and outcomes in tasks such as negotiations or games."
+taskbased,Quantitative Reasoning,"The degree to which the task involves numerical computation, logical reasoning, and problem-solving skills."
+taskbased,Risk and Uncertainty,"The level of risk involved in decision-making and the uncertainty of outcomes, which can be influenced by unknown variables or the actions of others."
+taskbased,Learning and Adaptation,"Whether and how participants receive feedback on their performance, which can be immediate or delayed, and how they can learn and adapt their strategies over time."
+taskbased,Feedback,"The presence and immediacy of feedback given to participants, which can influence learning and strategy. This can be operationalized by whether participants receive immediate, delayed, or no feedback on their performance."
+taskbased,Objective vs. Subjective Evaluation,"The manner in which task performance is assessed, ranging from objective measures (e.g., a correct answer) to subjective evaluations (e.g., creativity or negotiation skills)."
+taskbased,Resource Limitation,"The extent to which the task is constrained by the availability of resources, which can be operationalized by the quantity and type of resources provided to complete the task."
+taskbased,Physical Coordination,"The level of physical or manual dexterity required by the task, which can be operationalized by the need for precise movements or coordination in a physical or virtual space."
+taskbased,Convergence-Divergence,"Whether the task has a single correct answer or multiple possible correct answers, operationalized by the number of acceptable solutions or the range of scores reflecting the quality of the solutions."
+taskbased,Expertise Alignment,"The degree to which the task requires or benefits from specialized knowledge or skills, operationalized by comparing participants' solutions to those of subject matter experts."
+taskbased,Information Availability,The degree to which all necessary information is readily available to participants or if some information is hidden or must be discovered.
+taskbased,Physical vs. Cognitive Skills,"The type of skills predominantly required by the task, ranging from physical/manual dexterity to cognitive/mental abilities. This can be operationalized by identifying the primary type of skill needed for task completion."
+taskbased,Memory,The reliance on recall ability to complete the task.
+taskbased,Pattern Recognition,"The need to identify and understand patterns, trends, or regularities in data."
+taskbased,Negotiation,The requirement to discuss and reach an agreement in a collaborative or competitive context.
+taskbased,Knowledge Dependency,"The extent to which the task relies on pre-existing knowledge or information, such as familiarity with words or knowledge of city populations."
+taskbased,Moral/Ethical Consideration,"The extent to which the task involves moral or ethical decision-making, which can influence the choices made by participants beyond purely rational self-interest."
+taskbased,Perceptual Skills,"The need for visual or auditory discrimination to complete the task. This can be operationalized by tasks that require distinguishing between patterns, sounds, or visual stimuli."
+directask,Complexity,Number of distinct steps or components required to complete the task
+directask,Interdependence,The degree to which team members' tasks are interconnected
+directask,Diversity of Skills Required,Count of different specialized skills needed to perform the task effectively
+directask,Uncertainty,The predictability of task outcomes
+directask,Time Pressure,Time given to complete the task measured in minutes or hours
+directask,Task Novelty,Scale from 1 (familiar) to 5 (novel) indicating how common or new the task is to the team members
+directask,Information Load,Amount of information (in bytes or number of items) that must be processed to complete the task
+directask,Goal Clarity,Scale from 1 (ambiguous) to 5 (clear) indicating how well-defined the task goals are
+directask,Physical Demand,Scale from 1 (low) to 5 (high) indicating the level of physical effort required
+directask,Coordination Requirement,Number of coordination points where team members must synchronize their actions
+directask,Complexity,Number of distinct steps or actions required to complete the task
+directask,Interdependence,"Scale from 0 (completely independent) to 1 (completely interdependent), representing the extent to which team members' tasks are interconnected"
+directask,Diversity of Skills,Number of different specialized skills or knowledge areas required to perform the task
+directask,Time Pressure,"Time available to complete the task divided by the estimated time normally required to complete it, yielding a ratio less than 1 for high pressure, and greater than 1 for low pressure"
+directask,Uncertainty,"Scale from 0 (no uncertainty, outcome is predictable) to 1 (high uncertainty, outcome is unpredictable), indicating the predictability of the task outcome"
+directask,Goal Clarity,"Scale from 0 (goals are ambiguous and not clearly defined) to 1 (goals are explicit, clear, and well-defined), representing the clarity of the task objectives"
+directask,Information Availability,"Ratio of the amount of information available to the team to the amount of information required to complete the task, with a value of 1 indicating perfect information availability"
+directask,Task Novelty,"Scale from 0 (task is routine and familiar to the team) to 1 (task is novel and has never been encountered by the team), indicating the newness of the task to the team"
+directask,Complexity,Number of distinct steps or components required to complete the task.
+directask,Interdependence,"Scale from 1 (completely independent) to 5 (highly interdependent), measuring the extent to which team members' tasks are interconnected."
+directask,Diversity of Skills Required,Count of different specialized skills needed to perform the task effectively.
+directask,Uncertainty,"Scale from 1 (low uncertainty) to 5 (high uncertainty), indicating the predictability of the task outcome based on the information available at the start."
+directask,Time Pressure,"Measured in seconds/minutes/hours to deadline, indicating the urgency with which the task must be completed."
+directask,Information Load,Quantified as the number of informational units that must be processed to complete the task.
+directask,Problem-Solving Demand,"Scale from 1 (routine task) to 5 (high problem-solving demand), reflecting the level of novel thinking required."
+directask,Coordination Requirement,"Scale from 1 (minimal coordination) to 5 (extensive coordination), assessing the level of coordination needed among team members."
+directask,Physical Demand,"Measured in metabolic equivalents (METs), indicating the physical effort required to complete the task."
+directask,Creativity Requirement,"Scale from 1 (no creativity needed) to 5 (high creativity required), gauging the need for original ideas and solutions."
+directask,Learning Curve,Measured by the average time it takes for a new team member to perform the task at a proficiency level of 90% of an experienced member.
+directask,Feedback Loop,"Measured by the average time between action and receiving feedback on performance, indicating the immediacy and frequency of feedback."
+directask,Goal Clarity,"Scale from 1 (ambiguous goals) to 5 (clearly defined goals), representing the explicitness of the task objectives."
+directask,Resource Availability,Measured by the percentage of time all necessary resources are available during task performance.
+directask,Stress Level,"Scale from 1 (low stress) to 5 (high stress), based on physiological measures such as heart rate or self-reported stress levels."
+directask,Complexity,Number of distinct steps required to complete the task
+directask,Interdependence,"Scale from 1 (completely independent) to 5 (highly interdependent), based on the extent to which team members' tasks are interconnected"
+directask,Diversity of Skills Required,Count of different specialized skills needed to perform the task effectively
+directask,Time Pressure,Time given to complete the task divided by the estimated time it would take to comfortably complete the task without rushing
+directask,Uncertainty,Number of unpredictable elements that could affect task completion
+directask,Information Load,Amount of information (in bytes) that must be processed to complete the task
+directask,Coordination Demand,"Number of coordination actions (e.g., communications, synchronizations) required per unit of time"
+directask,Physical Demand,Rating on a scale from 1 (minimal physical effort) to 5 (extreme physical effort) based on the physical intensity of the task
+directask,Cognitive Demand,Rating on a scale from 1 (minimal cognitive effort) to 5 (extreme cognitive effort) based on the mental intensity of the task
+directask,Innovativeness,Number of novel solutions or approaches required to successfully complete the task
+directask,Complexity,Number of distinct steps or components required to complete the task.
+directask,Interdependence,"Scale from 0 (completely independent tasks) to 1 (completely interdependent tasks), measuring the extent to which team members' tasks are interconnected."
+directask,Diversity of Skills Required,Variety index based on the number of different skills or expertise areas necessary to perform the task.
+directask,Uncertainty,"Scale from 0 (no uncertainty, outcome is predictable) to 1 (high uncertainty, outcome is unpredictable), indicating the level of unpredictability associated with the task's process and outcome."
+directask,Time Pressure,Measured as the inverse of the amount of time available to complete the task relative to the estimated time normally required.
+directask,Goal Clarity,"Scale from 0 (goals are ambiguous and not clearly defined) to 1 (goals are explicit and clearly defined), representing the clarity of task objectives."
+directask,Information Load,Quantified as the amount of information units that need to be processed per unit of time during the task.
+directask,Task Novelty,"Scale from 0 (task is routine and familiar) to 1 (task is novel and unfamiliar), indicating the degree of novelty of the task to the team members."
+directask,Physical Demand,"Measured by the average metabolic equivalent (MET) required to perform the task, indicating the level of physical effort."
+directask,Coordination Demand,"Scale from 0 (no coordination required) to 1 (extensive coordination required), reflecting the level of coordination necessary among team members to complete the task."
+directask,Complexity,"The number of distinct elements and the interactivity among these elements within the task, 'measure': 'Element Count: The total number of distinct elements (e.g., steps, variables, decisions) involved in a task. Interactivity Index: A score from 1 (low) to 5 (high) indicating the degree of interdependence among elements"
+directask,Uncertainty,"The unpredictability associated with the outcome of the task, 'measure': 'Uncertainty Score: A score from 1 (low) to 5 (high) based on the variability of outcomes given the same input or process"
+directask,Duration,"The length of time required to complete the task, 'measure': 'Time in Minutes: The average time taken to complete the task, measured in minutes"
+directask,Novelty,"The degree to which the task is new or unfamiliar to the team, 'measure': Novelty Rating: A score from 1 (familiar) to 5 (novel) based on team members' self-reported familiarity with the task."
+directask,Coordination Demand,"The extent to which the task requires team members to work interdependently, 'measure': 'Coordination Index: A score from 1 (low) to 5 (high) reflecting the level of coordination required among team members to successfully complete the task"
+directask,Cognitive Load,"The mental effort required to perform the task, 'measure': 'Cognitive Load Scale: A score from 1 (low) to 5 (high) based on subjective assessment of mental effort required, using standardized cognitive load measurement instruments"
+directask,Physical Demand,"The physical effort required to perform the task, 'measure': 'Physical Demand Scale: A score from 1 (low) to 5 (high) based on subjective assessment of physical effort required"
+directask,Skill Variety,"The range of skills and abilities required to perform the task, 'measure': 'Skill Diversity Index: The number of distinct skills and abilities required to perform the task effectively"
+directask,Goal Clarity,"The degree to which the goals of the task are clearly defined and understood, 'measure': Goal Clarity Score: A score from 1 (ambiguous) to 5 (clear) indicating the clarity of the task's goals."
+directask,Feedback Loop,"The mechanism by which information about performance is returned to the team, 'measure': 'Feedback Frequency: The average number of feedback instances per task. Feedback Timeliness: The average time in minutes from task action to feedback"
+directask,Cognitive Complexity,"A numerical score based on the number of distinct cognitive processes required (e.g., memory recall, logical reasoning, decision-making), the number of decision points, and the level of abstraction involved in the task"
+directask,Interdependence Level,"A scale from 0 to 1 where 0 represents completely independent tasks and 1 represents tasks that cannot be completed without constant team interaction, measured by the frequency and necessity of communication among team members"
+directask,Temporal Dynamics,"A measure of the task's time sensitivity, quantified by the ratio of the time spent on active task engagement to the total time allotted for task completion."
+directask,Innovation Requirement,"A score derived from the necessity for creative problem-solving and generation of novel ideas, rated by experts in the field on a scale from 1 (no innovation needed) to 10 (highly innovative)"
+directask,Physical Coordination,"A metric based on the number and complexity of physical actions required by the team, the precision needed, and the degree of synchronization, measured on a scale from 1 (minimal coordination) to 10 (extensive coordination)"
+directask,Environmental Variability,"A variability index calculated by the number of external variables that can affect task performance (e.g., changing tools, shifting workspaces), with higher scores indicating greater variability"
+directask,Resource Constraints,"A constraint score based on the scarcity of resources (e.g., time, information, tools, personnel) necessary for task completion, with higher scores indicating tighter constraints"
+directask,Stress Level,"A stress index measured by physiological responses (e.g., heart rate, cortisol levels) of team members during task performance or by self-reported stress levels on a standardized scale"
+directask,Learning Curve,"A learning index calculated by the rate of performance improvement over time, with higher values indicating a steeper learning curve"
+directask,Outcome Measurability,"A measurability score based on the clarity and objectivity of the outcome assessment criteria, ranging from 1 (subjective or unclear criteria) to 10 (objective and clear criteria)"
